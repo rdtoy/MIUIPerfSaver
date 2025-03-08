@@ -24,7 +24,7 @@
 
 
 ## 反馈 bug
-请在 https://github.com/test01wrk/MIUIPerfSaver/issues 创建 issue，并提供 LSPosed 管理器中的详细日志
+请在 https://github.com/rdtoy/MIUIPerfSaver/issues 创建 issue，并提供 LSPosed 管理器中的详细日志
 
 ## 感谢
 应用列表界面的 UI 和基础逻辑，改自 [XAppDebug](https://github.com/Palatis/XAppDebug) 项目
