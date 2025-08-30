@@ -15,8 +15,8 @@ android {
         applicationId project.ext.applicationId
         minSdk 28
         targetSdk 33
-        versionCode 1090
-        versionName "1.0.9"
+        versionCode 1100
+        versionName "1.1.0"
         resConfigs "zh-rCN"
         manifestPlaceholders = [
                 configProviderAuthority: project.ext.configProviderAuthority
